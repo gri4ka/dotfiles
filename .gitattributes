@@ -1,0 +1,2 @@
+nvim/mason/packages/clangd/clangd_15.0.6/bin/clangd filter=lfs diff=lfs merge=lfs -text
+nvim/mason/packages/deno/deno filter=lfs diff=lfs merge=lfs -text
